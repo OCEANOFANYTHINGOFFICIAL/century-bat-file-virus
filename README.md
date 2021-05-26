@@ -3,6 +3,8 @@ This Single Line Of code will Shutdown The System On Every Startup 100 Times Aft
 <br>
 <br>
 You Can Edit The Time Of Shutdown "100". You Can Also Edit The Message "Installing Updates".
+or
+# copy the following code in notepad and save that with .bat extention
 ```batch
 shutdown -s -t 100 c "Installing Updates"
 ```
